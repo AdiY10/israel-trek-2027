@@ -299,8 +299,10 @@ a {
 }
 
 .brand-logo {
-  width: auto;
-  height: 1.75rem;
+  width: 2.5rem;
+  height: 2.5rem;
+  border-radius: 50%;
+  object-fit: cover;
 }
 
 .brand-divider {
