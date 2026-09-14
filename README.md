@@ -27,7 +27,6 @@ Common updates in `index.html`:
   `<a class="btn btn-primary" href="YOUR-DEPOSIT-LINK" target="_blank" rel="noopener">Pay the deposit</a>`.
   Then update the "coming weeks" wording in the hero note, the Cost section, and step 3.
 - **Prices:** the `tiers` list in "Cost", the "From $999" fact in the hero, and the `og:description` meta tag.
-- **Visa guide:** the link in "Next steps", step 4.
 - **Dates or regions:** the hero facts, plus the `description` and `og:description` meta tags.
 
 To preview changes on your computer before pushing:
